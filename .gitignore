@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
-dist/
+#dist/
 
 .idea
 .settings
@@ -18,6 +18,6 @@ src/main/webapp/bower_components/
 *.sln
 
 node_modules/*
-dist/*
+#dist/*
 
 
