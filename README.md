@@ -12,7 +12,7 @@ In command, check npm installed success
 
 
 # clone project
-> git clone https://gitlab.com/danbee.ai/danbee-sense-line.git
+> git clone https://github.com/danbeeai/chat-example.git
 
 # Install package
 > cd project_path
