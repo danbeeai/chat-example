@@ -9,7 +9,7 @@
         "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
     },
     "dependencies": {
-        "axios": "^0.16.2",
+        "axios": "^0.19.2",
         "babel-polyfill": "^6.26.0",
         "moment": "^2.18.1",
         "uglify-es": "github:mishoo/UglifyJS2#harmony",
