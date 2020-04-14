@@ -1,3 +1,7 @@
+# This branch is no longer supported.
+You can check future versions in the repository below.
+vuejs example : https://github.com/danbeeai/chatui-example-vuejs
+
 # Install Node
 node.js : https://nodejs.org/ko/
 
